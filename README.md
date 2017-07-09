@@ -7,7 +7,7 @@ First you need to have Electron installed globally. To install, you just need to
 ```
 npm install -g electron
 ```
-And then just run the following commands:
+And then run the following commands:
 ```
 git clone https://github.com/heliojuniorkroger/electron-keylogger
 cd electron-keylogger
