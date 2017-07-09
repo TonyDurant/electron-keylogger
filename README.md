@@ -2,7 +2,12 @@
 Spy your friends with this JavaScript homemade keylogger.
 ![myimage-alt-tag](http://g.recordit.co/FOeD5sBuTS.gif)
 ## Installing
-Electron Keylogger it's very easy to be installed, just run the following commands:
+Electron keylogger is very easy to be installed.
+First you need to have Electron installed globally. To install, you just need to run this:
+```
+npm install -g electron
+```
+And then just run the following commands:
 ```
 git clone https://github.com/heliojuniorkroger/electron-keylogger
 cd electron-keylogger
